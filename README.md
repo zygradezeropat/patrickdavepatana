@@ -26,6 +26,7 @@
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45"><br>Django</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"><br>PostgreSQL</td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/743242?s=200&v=4" width="45"><br>Frappe</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"><br>MySQL</td>
   </tr>
 </table>
