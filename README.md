@@ -63,11 +63,20 @@
 
 ---
 
-### 📜 Certificates
+### 📜 Certificates & Achievements
 
 #### Microsoft Certified – Java Programming  
 <img src="./assets/certificates/java_certificate.jpg" width="600">
 
 #### Cisco Certified – Ethical Hacking  
 <img src="./assets/certificates/ethical_hacker.jpg" width="600">
+
+#### IT Olympiad 2024 - ACM Programming Competition
+<img src="./asset/certificate/it-olympiad.jpg" width="600" alt="IT Olympiad 2024 Certificate">
+
+#### Advanced Seminar Series - Journey from Science Practitioner to IT Specialist
+<img src="./asset/certificate/seminar-day1.jpg" width="600" alt="Seminar Day 1 Certificate">
+
+#### Advanced Seminar Series - The Power of Color in Graphic Design
+<img src="./asset/certificate/color-theory.jpg" width="600" alt="Color Theory Certificate">
 </div>
