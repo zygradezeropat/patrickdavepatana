@@ -1,1 +1,73 @@
-# patrickdavepatana
+<div align="center">
+
+## Hi, I am Patrick Dave Patana  
+*A Full Stack Developer and Graduating BSIT student of Davao del Norte State College*
+
+---
+
+### 🚀 Tech Stack
+
+### 🎨 Frontend
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"><br>HTML</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"><br>CSS</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"><br>Bootstrap</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"><br>JavaScript</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"><br>React.js</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45"><br>Next.js</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"><br>Tailwind CSS</td>
+</tr>
+</table>
+
+---
+
+### ⚙️ Backend
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45"><br>Django</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"><br>PHP</td>
+</tr>
+</table>
+
+---
+
+### 🗄️ Database
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"><br>PostgreSQL</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"><br>SQL</td>
+</tr>
+</table>
+
+---
+
+### 💻 Languages
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"><br>Python</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"><br>Java</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"><br>C++</td>
+</tr>
+</table>
+
+---
+
+### 🐳 Tools
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"><br>Git</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"><br>Docker</td>
+</tr>
+</table>
+
+---
+
+### 📜 Certificates
+
+#### Microsoft Certified – Java Programming  
+<img src="./assets/certificate/java_certificate.jpg" width="600">
+
+#### Cisco Certified – Ethical Hacking  
+<img src="./assets/certificate/ethical_hacker.jpg" width="600">
+</div>
