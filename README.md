@@ -72,11 +72,11 @@
 <img src="./assets/certificates/ethical_hacker.jpg" width="600">
 
 #### IT Olympiad 2024 - ACM Programming Competition
-<img src="./asset/certificate/psits_certificate.jpg" width="600" alt="IT Olympiad 2024 Certificate">
+<img src="./assets/certificates/psits_certificate.jpg" width="600" alt="IT Olympiad 2024 Certificate">
 
 #### Advanced Seminar Series - Journey from Science Practitioner to IT Specialist
-<img src="./asset/certificate/35e55b9a-9ddf-4f20-8a3a-ba8670e35e79.jpg" width="600" alt="Seminar Day 1 Certificate">
+<img src="./assets/certificates/35e55b9a-9ddf-4f20-8a3a-ba8670e35e79.jpg" width="600" alt="Seminar Day 1 Certificate">
 
 #### Advanced Seminar Series - The Power of Color in Graphic Design
-<img src="./asset/certificate/ebf7e83e-cab7-4bfc-a59c-54923ae3f9ba.jpg" width="600" alt="Color Theory Certificate">
+<img src="./assets/certificates/ebf7e83e-cab7-4bfc-a59c-54923ae3f9ba.jpg" width="600" alt="Color Theory Certificate">
 </div>
