@@ -12,7 +12,6 @@
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45"><br>Next.js</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"><br>React.js</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="45"><br>Vue.js</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"><br>Tailwind</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"><br>Bootstrap</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"><br>HTML5</td>
